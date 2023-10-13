@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Química</title>
+</head>
+<body>
+
+<header>
+    <h1>Química en la Vida Cotidiana</h1>
+    <nav>
+        <ul>
+            <li><a href="#introduccion">Introducción</a></li>
+            <li><a href="#elementos">Elementos Químicos</a></li>
+            <li><a href="#reacciones">Reacciones Químicas</a></li>
+            <li><a href="#tabla-periodica">Tabla Periódica</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    <section id="introduccion">
+        <h2>Introducción a la Química</h2>
+        <p>La química es la ciencia que estudia la composición de la materia, sus propiedades y transformaciones. Es fundamental para entender el mundo que nos rodea.</p>
+    </section>
+
+    <section id="elementos">
+        <h2>Elementos Químicos</h2>
+        <p>Los elementos químicos son sustancias puras formadas por átomos del mismo tipo. Algunos ejemplos son el hidrógeno, oxígeno y carbono.</p>
+    </section>
+
+    <section id="reacciones">
+        <h2>Reacciones Químicas</h2>
+        <p>Las reacciones químicas transforman una o más sustancias en otras diferentes. Ejemplos comunes son la oxidación y la combustión.</p>
+    </section>
+
+    <section id="tabla-periodica">
+        <h2>Tabla Periódica de los Elementos</h2>
+        <p>La tabla periódica organiza los elementos químicos en función de sus propiedades y estructura atómica. Fue desarrollada por Dmitri Mendeléyev.</p>
+    </section>
+</main>
+
+<footer>
+    <p>Derechos de autor © 2023 Tu Nombre</p>
+</footer>
+
+</body>
+</html>
