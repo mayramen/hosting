@@ -1,4 +1,4 @@
 # hosting
 Diseño de páginas web
- !.[]. (https://github.com/mayramen/hosting/blob/main/img/comidas.png)
+ !.[]. (https://github.com/mayramen/hosting/blob/main/img/conta.jpg)
  
